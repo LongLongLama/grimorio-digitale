@@ -1,0 +1,16 @@
+# File di compilazione e output
+[Bb]in/
+[Oo]bj/
+
+# Impostazioni utente di Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# File di Rider
+.idea/
+*.sln.iml
+
+# Altri file generati
+*.vs/
