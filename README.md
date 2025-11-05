@@ -103,6 +103,6 @@ A seconda della versione che vuoi lanciare:
 
 ### 📫 Contatti
 
-Alessandro La Martina – ([URL_LINKEDIN](https://www.linkedin.com/in/alessandro-la-martina-1a84302b0/))
+Alessandro La Martina – ([@linkedin](https://www.linkedin.com/in/alessandro-la-martina-1a84302b0/))
 
 Link al Progetto: [https://github.com/LongLongLama/grimorio-digitale](https://github.com/LongLongLama/grimorio-digitale)
